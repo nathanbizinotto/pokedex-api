@@ -90,7 +90,7 @@ Use o app do Expo no seu celular para escanear o QR Code e testar.
     - Imagem oficial do Pokémon
 
 ## 👨‍💻 Desenvolvedor
-- Paulo Henrique de Andrade
+- Paulo Henrique Borges de Andrade Filho
 
 ## 💡 Créditos
 Pokémons e dados fornecidos pela [PokéAPI](https://pokeapi.co/).
