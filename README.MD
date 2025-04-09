@@ -44,8 +44,8 @@ Criar um app mobile com as seguintes funcionalidades:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/pblcnr/pokedex-api.git
+cd pokedex-api
 ```
 
 ### 2. Instale as dependências
