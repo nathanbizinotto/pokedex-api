@@ -1,0 +1,8 @@
+Bibliotecas utilizadas no projeto:
+
+- React Native
+- Expo
+- React Navigation
+- Axios
+- AsyncStorage
+- React Native Paper 
